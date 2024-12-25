@@ -2,16 +2,16 @@
 City Weather Checker is a simple web application that allows users to check the current weather conditions of any city worldwide. By entering the name of a city, the app fetches the weather data from the OpenWeatherMap API and displays it in an easy-to-read format.
 
 Features:
-• Real-time Weather Information: Displays temperature, humidity, and wind speed for a given city.
-• Dynamic Weather Icons: Shows different weather icons based on the weather condition (e.g., sunny, rainy, cloudy).
-• Error Handling: In case of an invalid city name, the app displays an error message.
-• Responsive Design: The app is designed to be user-friendly and responsive across different devices.
+1. Real-time Weather Information: Displays temperature, humidity, and wind speed for a given city.
+2. Dynamic Weather Icons: Shows different weather icons based on the weather condition (e.g., sunny, rainy, cloudy).
+3. Error Handling: In case of an invalid city name, the app displays an error message.
+4. Responsive Design: The app is designed to be user-friendly and responsive across different devices.
 
 Tech Stack:
-• HTML5 for the basic structure of the webpage.
-• CSS3 for styling and layout.
-• JavaScript for handling API requests and dynamic content updates.
-• OpenWeatherMap API for fetching weather data.
+1. HTML5 for the basic structure of the webpage.
+2. CSS3 for styling and layout.
+3. JavaScript for handling API requests and dynamic content updates.
+4. OpenWeatherMap API for fetching weather data.
 
 How It Works:
 1. Users enter a city name in the search bar.
